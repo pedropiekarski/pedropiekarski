@@ -19,5 +19,7 @@
 - Email: Pedro.piekarski.oliveira@escola.pr.gov.br  
 - GitHub: [github.com/pedropiekarski](https://github.com/pedropiekarski)  
 
+<img align='center' src="file:///C:/Users/alunio/Downloads/octocat-1765449631441.png" width="215">
+
 ---
 ✨ Este README foi pensado para **recrutadores**, destacando minhas habilidades técnicas e projetos aplicados.
